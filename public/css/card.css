@@ -1,0 +1,24 @@
+.card-link {
+    text-decoration: none;
+}
+
+.card-item {
+    width: 20rem;
+    max-width: 95%;
+    margin: 1rem;
+}
+
+.card__title {
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.card_content {
+    text-align: center;
+    color: #4d4d4d;
+    margin-bottom: 0.5rem;
+}
+
+.card__description {
+    text-align: center;
+}
