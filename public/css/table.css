@@ -1,0 +1,12 @@
+table {
+    border: solid 1px #aaa999;
+  }
+  table tr th, table tr td {
+    border: solid 1px #aaa999;
+    padding: 5px 10px;
+    text-align: center;
+  }
+  table tr td:nth-last-child(1) {
+    text-align: right;
+  }
+  
